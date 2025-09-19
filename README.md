@@ -45,6 +45,21 @@ This dashboard analyzes ₦40.22M in mobile sales across gender, payment methods
 
 ---
 
-## Dashboard
+### Dashboard
 
 <img width="891" height="495" alt="MOBILE DATASET" src="https://github.com/user-attachments/assets/bc75140b-6181-4eb8-b25e-6bf34be722b4" />
+
+## Query Language (SQL)
+
+```SQL
+SELECT * FROM dbo.mobile_sales;
+---Categorize the price into Gold,Silver AND ---
+SELECT * FROM dbo.mobile_sales SELECT price,
+ CASE
+  WHEN price < 500 THEN 'gold'
+  WHEN price BETWEEN 500 AND 999 THEN 'diamond'
+  WHEN price >= 1000 THEN 'silver'
+END AS category
+FROM dbo.mobile_sales;
+
+```
