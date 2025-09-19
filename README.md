@@ -21,6 +21,9 @@ _This project focuses on analyzing mobile sales performance across various dimen
 ---
 ## Data Source
 - Source: www.kaggle.com
+
+TransactionID | Date |	MobileModel |	Brand	| Price |	UnitsSold |	TotalRevenue |	CustomerAge	| CustomerGender | Location | PaymentMethod
+
 ---
 ## Key Insights
 This dashboard analyzes ₦40.22M in mobile sales across gender, payment methods, months, and locations.
