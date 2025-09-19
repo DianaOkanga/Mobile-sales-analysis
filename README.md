@@ -75,4 +75,4 @@ FROM dbo.mobile_sales;
 
 
 ### Link to Charts
-[Link to chart](https://ibb.co/MDxhn8n7) [Link to Chart](https://ibb.co/qffXhd4)
+[Powerbi Dashboard](https://ibb.co/MDxhn8n7) [Excel Dashboard](https://ibb.co/qffXhd4)
