@@ -9,3 +9,5 @@ Data analysis project exploring mobile sales trends, customer behaviour, and rev
 - Visualization
 - SQL Queries
 - Author
+---
+## Project Overview
