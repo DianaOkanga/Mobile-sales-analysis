@@ -18,5 +18,14 @@ _This project focuses on analyzing mobile sales performance across various dimen
 - Power BI – Visualization, and Dashboard
 - SQL - Data Extraction and Queries
 - Github - Portfolio and Project presentation
-
+---
 ## Data Source
+- Source: www.kaggle.com
+---
+## Key Insights
+This dashboard analyzes ₦40.22M in mobile sales across gender, payment methods, months, and locations.
+- Revenue: ₦40.22M with 50,074 units sold.
+- Top Payment Method: Credit Card (28%).
+- Customer Gender: Female customers slightly lead in purchases.
+- Monthly Trend: Highest sales recorded in January.
+- Location: Lake Amanda generated the most revenue.
