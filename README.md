@@ -2,7 +2,7 @@
 Data analysis project exploring mobile sales trends, customer behaviour, and revenue insights
 ---
 ## Table of Contents
-- Project Overview
+- [Project Overview](Project Overview)
 - Tools Used
 - Data Source
 - Key Insights
@@ -70,9 +70,7 @@ FROM dbo.mobile_sales;
 ```
 ## Author
 - Name: Diana Okanga
-
 - 
-
 
 ### Link to Charts
 [Powerbi Dashboard](https://ibb.co/MDxhn8n7) [Excel Dashboard](https://ibb.co/qffXhd4)
