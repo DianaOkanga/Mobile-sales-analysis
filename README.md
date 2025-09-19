@@ -42,3 +42,8 @@ This dashboard analyzes ₦40.22M in mobile sales across gender, payment methods
 
 
 <img width="964" height="435" alt="pivot table mobile sales" src="https://github.com/user-attachments/assets/8eb3fefb-3eee-49c4-bb79-3f83f8c777db" />
+
+---
+
+## Dashboard
+
