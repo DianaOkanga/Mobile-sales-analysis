@@ -45,9 +45,13 @@ This dashboard analyzes ₦40.22M in mobile sales across gender, payment methods
 
 ---
 
-### Dashboard
+### PowerBi Dashboard
 
 <img width="891" height="495" alt="MOBILE DATASET" src="https://github.com/user-attachments/assets/bc75140b-6181-4eb8-b25e-6bf34be722b4" />
+
+## Excel Dashboard
+
+
 
 ## Query Language (SQL)
 
@@ -63,3 +67,6 @@ END AS category
 FROM dbo.mobile_sales;
 
 ```
+## Author
+- Name: Diana Okanga
+- 
