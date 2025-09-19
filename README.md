@@ -2,7 +2,7 @@
 Data analysis project exploring mobile sales trends, customer behaviour, and revenue insights
 ---
 ## Table of Contents
-- [Project Overview](Project Overview)
+- [Project Overview](#Project-Overview)
 - Tools Used
 - Data Source
 - Key Insights
