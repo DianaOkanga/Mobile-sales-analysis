@@ -70,4 +70,9 @@ FROM dbo.mobile_sales;
 ```
 ## Author
 - Name: Diana Okanga
+
 - 
+
+
+### Link to Charts
+[Link to charts](https://ibb.co/MDxhn8n7)
