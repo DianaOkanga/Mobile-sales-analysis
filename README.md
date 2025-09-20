@@ -70,7 +70,7 @@ FROM dbo.mobile_sales;
 ```
 ## Author
 - Name: Diana Okanga
-- 
+- Email: [okangadiana@gmail.com](okangadiana@gmail.com)
 
 ### Link to Charts
 [Powerbi Dashboard](https://ibb.co/MDxhn8n7) [Excel Dashboard](https://ibb.co/qffXhd4)
