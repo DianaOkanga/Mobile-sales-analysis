@@ -1,5 +1,5 @@
 # Mobile-sales-analysis
-Data analysis project exploring mobile sales trends, customer behaviour, and revenue insights
+This is a Data analysis project exploring mobile sales trends, customer behaviour, and revenue insights
 ---
 ## Table of Contents
 - [Project Overview](#Project-Overview)
