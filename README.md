@@ -71,6 +71,7 @@ FROM dbo.mobile_sales;
 ## Author
 - Name: Diana Okanga
 - Email: [okangadiana@gmail.com](okangadiana@gmail.com)
+- Linkedin: {Linkedin profile](www.linkedin.com/in/diana-okanga-31859b250)
 
 ### Link to Charts
 [Powerbi Dashboard](https://ibb.co/MDxhn8n7) [Excel Dashboard](https://ibb.co/qffXhd4)
